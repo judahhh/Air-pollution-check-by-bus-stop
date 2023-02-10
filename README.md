@@ -1,12 +1,13 @@
 ## 경기도 버스 정류장 주변도로 미세먼지 데이터 조회 시스템
 <img src="https://user-images.githubusercontent.com/96521594/218132165-2f3a718b-0f8a-4ed8-b7b4-27b6e383b163.png" width="400" height="280">
+<br>
 
 ## Project Description
 
 1등급을 부여받은 미세먼지 간이측정기가 설치된 버스정류장을 조회하고 조회한 버스정류장 주변도로의 대기환경을 확인할 수 있습니다
 
-
-
+<br>
+<br>
 
 ## STACKS 📚
 <div>
@@ -19,7 +20,7 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-
+<br><br>
 
 ## 주요 기능
 
@@ -30,7 +31,7 @@
 ### 기능 2
 
 검색한 버스정류장의 주변도로 미세먼지 측정정보 조회 기능
-
+<br>
 
 <br>
 <br>
