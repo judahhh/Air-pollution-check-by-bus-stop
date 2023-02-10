@@ -1,5 +1,5 @@
 ## 경기도 버스 정류장 주변도로 미세먼지 데이터 조회 시스템
-<img src="https://user-images.githubusercontent.com/96521594/218132165-2f3a718b-0f8a-4ed8-b7b4-27b6e383b163.png" width="400" height="270">
+<img src="https://user-images.githubusercontent.com/96521594/218132165-2f3a718b-0f8a-4ed8-b7b4-27b6e383b163.png" width="400" height="280">
 
 ## Project Description
 
