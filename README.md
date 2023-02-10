@@ -9,10 +9,11 @@
 
 
 ## 기술 스택
-
-| JavaScript |   React   |
-| :--------: |  :------: |
-|   ![js]    |  [react]  | 
+<img src="https://img.shields.io/badge/React-E34F26?style=for-the-badge&logo=#61DAFB&logoColor=white">
+<img src="https://img.shields.io/badge/Javascript-E34F26?style=for-the-badge&logo=<img src="https://img.shields.io/badge/React-E34F26?style=for-the-badge&logo=#61DAFB&logoColor=white">
+13
+&logoColor=white">
+13
 
 
 
