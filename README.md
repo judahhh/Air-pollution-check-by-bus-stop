@@ -8,11 +8,17 @@
 
 
 
-## 기술 스택
+## <div align=center><h1>📚 STACKS</h1></div>
+<div>
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/styled-components-#DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+
+<img src="https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</div>
+
 
 
 ## 주요 기능
