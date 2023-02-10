@@ -1,3 +1,33 @@
+## 경기도 버스 정류장 주변도로 미세먼지 데이터 조회 시스템
+
+
+## Project Description
+
+1등급을 부여받은 미세먼지 간이측정기가 설치된 버스정류장을 조회하고 조회한 버스정류장 주변도로의 대기환경을 확인할 수 있습니다
+
+
+
+
+## 기술 스택
+
+| JavaScript |   React   |
+| :--------: |  :------: |
+|   ![js]    |  [react]  | 
+
+
+
+## 주요 기능
+
+### 기능 1
+
+미세먼지 간이측정기가 설치된 버스정류장 검색 기능
+
+### 기능 2
+
+검색한 버스정류장의 주변도로 미세먼지 측정정보 조회 기능
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -43,28 +73,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
